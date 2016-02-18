@@ -1,0 +1,45 @@
+body {
+	background-color:#2B2B7D;
+	color:white;
+}
+
+#container {
+
+
+    text-align: center;
+}
+
+#password {
+
+	color:#f6b33d;
+    font-size:25px;
+
+}
+
+#header {
+	text-decoration:none;
+    font-size:50px;
+}
+
+#form {
+    font-size:25px;
+}
+
+.button {
+    text-indent:0;
+    border:1px solid #eda933;
+    display:inline-block;
+    color:black;
+    font-family:Arial;
+    font-size:20px;
+    font-weight:bold;
+    font-style:normal;
+    height:50px;
+    line-height:30px;
+    padding: .5em;
+    text-decoration:none;
+    text-align:center;
+    text-shadow:1px 1px 0px #cd8a15;
+    background-color:#f6b33d;
+    cursor:pointer;
+}
