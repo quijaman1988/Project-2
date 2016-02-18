@@ -21,7 +21,7 @@ If the user types an incorrect value, an error message will appear.
 ----
 
 ## Demo Link
-http://screencast.com/t/y1Fn3E09
+http://screencast.com/t/j2m86Lptrp2
 
 ## Outside code
 * Bootstrap: http://getbootstrap.com/
