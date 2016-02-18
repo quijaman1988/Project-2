@@ -13,9 +13,10 @@
 
 
    </head>
-   <div id ="container">
+
 
    <body>
+     <div id ="container">
 
       <div class="row">
 
@@ -29,7 +30,7 @@
       <div class="row">
 
             <div class="col-md-2"></div>
-            <div class="col-md-8"><h1 id="header">XKCD Password Generator </h1></div>
+            <div class="col-md-8"><h1 class="header">XKCD Password Generator </h1></div>
             <div class="col-md-2"></div>
       </div>
 
@@ -42,7 +43,7 @@
        <div class="row">
 
             <div class="col-md-2"></div>
-            <div class="col-md-8"><h1 id="header"><div id="password"><h3><?=$passwordString ?></h3></div></h1></div>
+            <div class="col-md-8"><div id="password"><h3 class="header"><?=$passwordString ?></h3></div></div>
             <div class="col-md-2"></div>
       </div>
 
@@ -90,8 +91,9 @@
 
 
    			</form>
+        </div>
    </body>
 
-</div>
+
 
 </html>
